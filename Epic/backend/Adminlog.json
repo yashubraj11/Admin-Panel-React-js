@@ -1,0 +1,16 @@
+{"data":[
+  { 
+    
+  "username": "admin",
+   "password": "admin123" 
+},
+
+  { 
+    "username": "superadmin", 
+    "password": "super123"
+ },
+  { 
+    "username": "manager", 
+    "password": "manager123" 
+}
+]}

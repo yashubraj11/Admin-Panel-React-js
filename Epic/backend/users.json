@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "passwords": "P@ssword1",
+      "phonenumber": "+1234567890",
+      "date_of_birth": "1990-05-15"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "passwords": "Pass1234!",
+      "phonenumber": "+1987654321",
+      "date_of_birth": "1985-09-22"
+    },
+    {
+      "id": 3,
+      "username": "mike_jones",
+      "email": "mike.jones@example.com",
+      "passwords": "M1ke@2025",
+      "phonenumber": "+1122334455",
+      "date_of_birth": "1992-11-03"
+    },
+    {
+      "id": 4,
+      "username": "lisa_ray",
+      "email": "lisa.ray@example.com",
+      "passwords": "L1saR@2024",
+      "phonenumber": "+1223344556",
+      "date_of_birth": "1988-07-30"
+    },
+    {
+      "id": 5,
+      "username": "david_clark",
+      "email": "david.clark@example.com",
+      "passwords": "Dav1d!789",
+      "phonenumber": "+1334455667",
+      "date_of_birth": "1995-02-14"
+    },
+    {
+      "id": 6,
+      "username": "emma_wilson",
+      "email": "emma.wilson@example.com",
+      "passwords": "Emm@2023",
+      "phonenumber": "+1445566778",
+      "date_of_birth": "1991-12-09"
+    },
+    {
+      "id": 7,
+      "username": "chris_evans",
+      "email": "chris.evans@example.com",
+      "passwords": "Chr1s#321",
+      "phonenumber": "+1556677889",
+      "date_of_birth": "1987-06-21"
+    },
+    {
+      "id": 8,
+      "username": "olivia_brown",
+      "email": "olivia.brown@example.com",
+      "passwords": "Ol1vi@456",
+      "phonenumber": "+1667788990",
+      "date_of_birth": "1993-08-05"
+    },
+    {
+      "id": 9,
+      "username": "ryan_martin",
+      "email": "ryan.martin@example.com",
+      "passwords": "RyaN!678",
+      "phonenumber": "+1778899001",
+      "date_of_birth": "1989-03-17"
+    },
+    {
+      "id": 10,
+      "username": "sophia_lee",
+      "email": "sophia.lee@example.com",
+      "passwords": "S0ph!@2022",
+      "phonenumber": "+1889900112",
+      "date_of_birth": "1994-10-25"
+    }
+  ]
+}
